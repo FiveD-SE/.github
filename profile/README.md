@@ -4,7 +4,7 @@ Welcome to the FiveD-SE GitHub organization!
 
 ## About Us
 
-FiveD-SE is a software engineering organization dedicated to [brief description of your organization's mission or focus].
+We are a group of students from the Software Engineering class of 2022 at the University of Information Technology, Vietnam National University - Ho Chi Minh City (VNU-HCM).
 
 ## Projects
 
