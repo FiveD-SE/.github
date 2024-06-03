@@ -16,7 +16,7 @@ We are a group of students from the Software Engineering class of 2022 at the Un
 ### Project 2
 
 -   **Description:** Enigma leverages AI technology to streamline the dropshipping process. Users can effortlessly create and list products without the need for physical inventory. Our platform enables users to profit from the price difference between the set price and the customer's purchase price, making online business easier and more profitable than ever before.
--   **Link:** [Enigma](https://github.com/FiveD-SE/Enigma)
+-   **Link:** [Enigma](https://github.com/FiveD-SE/Enigma-Frontend)
   
 ### Project 2
 
