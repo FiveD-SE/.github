@@ -24,7 +24,7 @@ We are a group of students from the Software Engineering class of 2022 at the Un
 -   **Link:** [Enigma-Java](https://github.com/FiveD-SE/Enigma-Java)
 
 
-## THÀNH VIÊN NHÓM
+## Members
 
 | STT |   MSSV   | Họ và Tên           |    Chức Vụ |                                                                                                                         Github |                  Email |
 | --- | :------: | ------------------- | ---------: | -----------------------------------------------------------------------------------------------------------------------------: | ---------------------: |
