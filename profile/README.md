@@ -11,7 +11,7 @@ We are a group of students from the Software Engineering class of 2022 at the Un
 ### Project 1
 
 -   **Description:** Coffee Shop Management is a software solution designed to help coffee shop owners manage their daily operations efficiently. From managing inventory to processing orders, our system aims to streamline the workflow and enhance the overall customer experience.
--   **Link:** [CoffeeShopManagement](https://github.com/FiveD-SE/CoffeeShopManagement)
+-   **Link:** [Coffee Shop Management System](https://github.com/FiveD-SE/CoffeeShopManagement)
 
 ### Project 2
 
@@ -23,13 +23,17 @@ We are a group of students from the Software Engineering class of 2022 at the Un
 -   **Description:** Enigma Brand.
 -   **Link:** [Enigma-Java](https://github.com/FiveD-SE/Enigma-Java)
 
+### Project 4
+
+-   **Description:** Resort Management System.
+-   **Link:** [Resort Management System](https://github.com/FiveD-SE/ResortManagementSystem-BE)
 
 ## Members
 
-| STT |   MSSV   | Họ và Tên           |    Chức Vụ |                                                                                                                         Github |                  Email |
-| --- | :------: | ------------------- | ---------: | -----------------------------------------------------------------------------------------------------------------------------: | ---------------------: |
-| 1   | 22520103 | Huỳnh Gia Bảo       | Thành viên |         [![](https://img.shields.io/badge/hgbaooo-%2324292f.svg?style=flat-square&logo=github)](https://github.com/hgbaooo) | 22520103@gm.uit.edu.vn |
-| 2   | 22521337 | Nguyễn Quốc Thắng   | Thành viên |    [![](https://img.shields.io/badge/nguynqthawq-%2324292f.svg?style=flat-square&logo=github)](https://github.com/nguynqthawq) | 22521337@gm.uit.edu.vn |
-| 3   | 22521282 | Nguyễn Thành Tài    | Thành viên | [![](https://img.shields.io/badge/not--thanhtai-%2324292f.svg?style=flat-square&logo=github)](https://github.com/not-thanhtai) | 22521282@gm.uit.edu.vn |
-| 4   | 22521145 | Trương Lê Vĩnh Phúc | Thành viên |          [![](https://img.shields.io/badge/sloweyyy-%2324292f.svg?style=flat-square&logo=github)](https://github.com/sloweyyy) | 22521145@gm.uit.edu.vn |
-| 5   | 22521314 | Trần Tuệ Tánh       | Thành viên |          [![](https://img.shields.io/badge/TrTueTah-%2324292f.svg?style=flat-square&logo=github)](https://github.com/TrTueTah) | 22521314@gm.uit.edu.vn |
+| No. | Name           |    Role |                                                                                                                         Github |                  Email |
+| --- | ------------------- | ---------: | -----------------------------------------------------------------------------------------------------------------------------: | ---------------------: |
+| 1   | Huỳnh Gia Bảo       | Fullstack Developer |         [![](https://img.shields.io/badge/hgbaooo-%2324292f.svg?style=flat-square&logo=github)](https://github.com/hgbaooo) | 22520103@gm.uit.edu.vn |
+| 2   | Nguyễn Quốc Thắng   | Frontend Developer & UI/UX Designer |    [![](https://img.shields.io/badge/nquynqthanq-%2324292f.svg?style=flat-square&logo=github)](https://github.com/nquynqthanq) | 22521337@gm.uit.edu.vn |
+| 3   | Nguyễn Thành Tài    | Frontend Developer & UI/UX Designer | [![](https://img.shields.io/badge/thvnhtai-%2324292f.svg?style=flat-square&logo=github)](https://github.com/thvnhtai) | 22521282@gm.uit.edu.vn |
+| 4   | Trương Lê Vĩnh Phúc | DevOps Engineer, Backend Developer |          [![](https://img.shields.io/badge/sloweyyy-%2324292f.svg?style=flat-square&logo=github)](https://github.com/sloweyyy) | 22521145@gm.uit.edu.vn |
+| 5   | Trần Tuệ Tánh       | Fullstack Developer |          [![](https://img.shields.io/badge/TrTueTah-%2324292f.svg?style=flat-square&logo=github)](https://github.com/TrTueTah) | 22521314@gm.uit.edu.vn |
