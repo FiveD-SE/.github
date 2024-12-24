@@ -35,5 +35,5 @@ We are a group of students from the Software Engineering class of 2022 at the Un
 | 1   | Huỳnh Gia Bảo       | Fullstack Developer |         [![](https://img.shields.io/badge/hgbaooo-%2324292f.svg?style=flat-square&logo=github)](https://github.com/hgbaooo) | 22520103@gm.uit.edu.vn |
 | 2   | Nguyễn Quốc Thắng   | Frontend Developer & UI/UX Designer |    [![](https://img.shields.io/badge/nquynqthanq-%2324292f.svg?style=flat-square&logo=github)](https://github.com/nquynqthanq) | 22521337@gm.uit.edu.vn |
 | 3   | Nguyễn Thành Tài    | Frontend Developer & UI/UX Designer | [![](https://img.shields.io/badge/thvnhtai-%2324292f.svg?style=flat-square&logo=github)](https://github.com/thvnhtai) | 22521282@gm.uit.edu.vn |
-| 4   | Trương Lê Vĩnh Phúc | DevOps Engineer, Backend Developer |          [![](https://img.shields.io/badge/sloweyyy-%2324292f.svg?style=flat-square&logo=github)](https://github.com/sloweyyy) | 22521145@gm.uit.edu.vn |
+| 4   | Trương Lê Vĩnh Phúc | DevOps Engineer & Fullstack Developer |          [![](https://img.shields.io/badge/sloweyyy-%2324292f.svg?style=flat-square&logo=github)](https://github.com/sloweyyy) | 22521145@gm.uit.edu.vn |
 | 5   | Trần Tuệ Tánh       | Fullstack Developer |          [![](https://img.shields.io/badge/TrTueTah-%2324292f.svg?style=flat-square&logo=github)](https://github.com/TrTueTah) | 22521314@gm.uit.edu.vn |
