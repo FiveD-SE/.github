@@ -25,7 +25,7 @@ We are a group of students from the Software Engineering class of 2022 at the Un
 
 ### Project 4
 
--   **Description:** Resort Management System.
+-   **Description:** The Resort Management System (RMS) is a comprehensive software solution designed to streamline resort operations, covering guest services and administrative tasks. RMS offers a web-based platform that integrates various functionalities crucial for efficient resort management.
 -   **Link:** [Resort Management System](https://github.com/FiveD-SE/ResortManagementSystem-BE)
 
 ## Members
